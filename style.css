@@ -3,13 +3,13 @@
    
 
     header{
-        background-color: rgb(51, 255, 0);
+        background-color: aqua;
         color: white;
         display: flex;
         justify-content: space-around;
-        padding: 24px 0;
+        padding: 24px;
+
     }
-    
 .cabecalho-listra-item{
         display: inline-block;
         margin: 0 20px;
